@@ -5,9 +5,11 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-      <div class="row">
+      <div class="row mb-5">
         <div class="card col-12">
-          <!-- <img src="https://via.placeholder.com/1280x960" class="card-img-top" alt="..."> -->
+          {% if post.cover %}
+            <img src="{{ site.baseurl }}/images/covers/{{ post.cover }}" class="card-img-top" alt="...">
+          {% endif %}
           <div class="card-body">
             <h5 class="card-title">{{ post.title }}</h5>
             <p class="card-text">{{ post.excerpt }}</p>

@@ -1,16 +1,5 @@
 ---
 ---
-// https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss
-
-// $font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$font-family-serif:       'Slabo 27px', serif;
-//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
-// $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$font-family-base:        $font-family-serif;
+@import "bootstrap_overrides.scss";
 @import "lib/bootstrap/bootstrap";
-
-
-
-.title {
-  font-family: 'Pacifico', cursive;
-}
+@import "custom_styles.scss";
