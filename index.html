@@ -5,14 +5,16 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
+      <div class="row">
+        <div class="card col-12">
+          <!-- <img src="https://via.placeholder.com/1280x960" class="card-img-top" alt="..."> -->
+          <div class="card-body">
+            <h5 class="card-title">{{ post.title }}</h5>
+            <p class="card-text">{{ post.excerpt }}</p>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">Read more</a>
+          </div>
+        </div>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
