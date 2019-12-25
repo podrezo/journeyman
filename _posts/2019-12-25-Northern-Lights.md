@@ -25,14 +25,6 @@ We've long heard about Iceland being a fantastic travel destination that is on m
 
 So why does it matter if it's winter or not? If the sole variable that affects whether our atmosphere is ionized depends on whether or not the Sun farts into space then why would the seasons change anything? Well, the truth is that it doesn't - CMEs happen regardless of our sesasons, but the problem is that if the air is ionized during daytime, the bright light of the Sun will completely drown out the aurora and make it invisible to the human eye. You know when there's generally less sunlight around? That's right... during winter! So trying to view the aurora during the long winter nights gives you more chances (more hours in a 24 hour period) to see it.
 
-## Solar activity forecast
-
-The National Oceanic and Atmospheric Administration maintains a website that has a [solar activity forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast) which can help you out.
-
-## It's raining, it's pouring
-
-Another factor that affects if you can see the auroras are clouds - since they generally sit between you and the ionized air, they block the view of the lights so remember to check the weather forecast in addition to the solar one.
-
 ## Your eyes versus a camera
 
 > "Whatever it is you're seeking won't come in the form you're expecting."
@@ -41,6 +33,14 @@ Another factor that affects if you can see the auroras are clouds - since they g
 A final thing to note on observing the auroras is that [those beautiful shots you see with vivid colors dancing in the air](https://youtu.be/s6zR2T9vn2c?t=134) are not what you're going to experience in person. Those shots unsurprisingly use long shutter times, sensitive camera lenses, and various other tools to achieve the results you see. In reality, auroras generally move pretty slow and are not as colorful as those videos and photos may have you believe. To quote [this Huff Post article](https://www.huffingtonpost.ca/entry/the-northern-lights-dont-look-anything-like-they-do-in-photos_n_5500a4d9e4b0e62d0dd4f9bb) that summarizes this pretty well:
 
 > If you're lucky, you might see faint glows of green, light purple or pink, and only in rare cases do viewers report bright, multicolored light shows. No matter what you see outside, the real Northern Lights are not like what you see in photos.
+
+## Solar activity forecast
+
+The National Oceanic and Atmospheric Administration maintains a website that has a [solar activity forecast](https://www.swpc.noaa.gov/products/aurora-30-minute-forecast) which can help you out.
+
+## It's raining, it's pouring
+
+Another factor that affects if you can see the auroras are clouds - since they generally sit between you and the ionized air, they block the view of the lights so remember to check the weather forecast in addition to the solar one.
 
 ## So what can I expect?
 
