@@ -19,6 +19,16 @@ The Northern Lights are thusly called because they happen in the Northern reache
 
 &ndash; [Library of Congress](https://www.loc.gov/everyday-mysteries/item/what-are-the-northern-lights/)
 
-We've long heard about Iceland being a fantastic travel destination that is a must-do on the bucketlist. From fantastic waterfalls, to rugged ocean-side cliffs, to the ice caves and more there's lots to see in Iceland. Then, one day we noticed a deal from [TravelZoo](https://www.travelzoo.com/ca/) that seemed too good to pass up - $600 CAD for a flight and hotel combo in Reykjavik. The thing is, at least part of the reason why it was so cheap was because the available dates were during the middle of the winter. We debated if it's worth it but among the biggest "pros" of going to Iceland in the winter was the idea of having a high chance of seeing the Northern Lights, *Aurora Borealis*. So in January 2016 we booked our tickets for the middle of February, packed our bags, and off we went.
+So a few things of note: Firstly, auroras have more to do with the sun occasionally having increased solar activity than anything to do with the Earth. Secondly, the "Earth" part of this equation has to do only with the ever-present magnetic field that does not change its activity due to seasons or factors you'd be able to see on a human scale. Finally, since the ionized particles flow along the lines of the magnetic field, it makes sense that they'd be visible around where that magnetic field intersects the atmosphere rather than where that magnetic field is in the vacuum of space.
 
-... to be continued ...
+So the closer you go towards the North or South poles, the better your vantage point *if* the solar activity strikes earther.
+
+## Winter is coming
+
+We've long heard about Iceland being a fantastic travel destination that is a must-do on the bucketlist. From fantastic waterfalls, to rugged ocean-side cliffs, to the ice caves and more there's lots to see in Iceland. Then, one day we noticed a deal from [TravelZoo](https://www.travelzoo.com/ca/) that seemed too good to pass up - $600 CAD for a flight and hotel combo in Reykjavik. The thing is, at least part of the reason why it was so cheap was because the available dates were during the middle of the winter. We debated if it's worth it but among the biggest "pros" of going to Iceland in the winter was the idea of having a high chance of seeing the Northern Lights. So in January 2016 we booked our tickets for the middle of February, packed our bags, and off we went.
+
+So why does it matter if it's winter or not? If the sole variable that affects whether our atmosphere is ionized depends on whether or not the Sun farts into space then why would the seasons change anything? Well, the truth is that it doesn't - CMEs happen regardless of our sesasons, but the problem is that if the air is ionized during daytime, the bright light of the Sun will completely drown out the aurora and make it invisible to the human eye. You know when there's generally less sunlight around? That's right... during winter! So trying to view the aurora during the long winter nights gives you more chances (more hours in the day) to see it.
+
+## It's raining, it's pouring
+
+... blah blah blah you can't see auroras if there's clouds ...
