@@ -7,3 +7,12 @@ blockquote {
   border-left: 5px solid $gray-light;
   padding: 0 0.5em;
 }
+
+.hero {
+  background-image: url(/images/hero.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -5em;
+  color: white;
+}
