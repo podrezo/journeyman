@@ -2,7 +2,7 @@
 layout: post
 title: Aurora Borealis
 cover: aurora-borealis.jpg
-excerpt: "\"Aurora Borealis!? At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen!?\""
+excerpt: "In this post we'll talk about how to catch that elusive northern glow up close and personal."
 ---
 
 > \"Aurora borealis!? At this time of year, at this time of day, in this part of the country, localized entirely within your kitchen!?\" &ndash; Superintendent Chalmers
