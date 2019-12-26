@@ -17,7 +17,14 @@ blockquote {
   background-image: url(/images/hero.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  @media screen and (orientation: portrait) {
+    background-size: auto;
+
+  }
+  @media screen and (orientation: landscape) {
+    background-size: contain;
+
+  }
   color: white;
 }
 
