@@ -28,9 +28,19 @@ blockquote {
   color: white;
 }
 
+.coverimg {
+  @include respond-above(md) {
+    max-width: 40%;
+    float: right;
+    margin: 0.5rem 3rem 0 3rem;
+  }
+  @include respond-below(md) {
+    
+  }
+}
+
 article.post {
-  @media (max-width: 767px) {
-    /* Target devices narrower than 768px. */
+  @include respond-below(sm) {
     margin: 0 2em;
   }
 }

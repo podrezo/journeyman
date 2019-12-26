@@ -3,14 +3,20 @@ layout: default
 ---
 
 <article class="post">
+  <nav aria-label="breadcrumb mb-2">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Home</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    </ol>
+  </nav>
 
   {% if page.cover %}
-    <img src="{{ site.baseurl }}/images/covers/{{ page.cover }}" class="img-fluid rounded mb-5">
+    <img src="{{ site.baseurl }}/images/covers/{{ page.cover }}" class="img-fluid rounded coverimg">
   {% endif %}
 
-  <h1 class="mb-3">{{ page.title }}</h1>
+  
 
-  <div class="entry">
+  <div class="entry mt-4">
     {{ content }}
   </div>
 

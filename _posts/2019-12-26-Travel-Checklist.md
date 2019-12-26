@@ -7,7 +7,7 @@ cover: "suitcases.jpg"
 
 Every time I leave for a trip, I find myself running in cirlces wondering what I forgot. To this end, I've been maintaing a travel checklist of items that are musts and figured I'd share what's in my suitcase when I travel. Let's get started!
 
-## General
+# General
 
 These are items that you're probably going to want to bring on every trip, regardless of where you're going.
 
@@ -31,7 +31,7 @@ These are items that you're probably going to want to bring on every trip, regar
 * Camera
 * Gadgets and chargers
 
-## Situational
+# Situational
 
 Depending on if you're going on a business trip, a vacation, or something else you may need these
 
@@ -40,7 +40,7 @@ Depending on if you're going on a business trip, a vacation, or something else y
   * Dress pants
 * Hiking and/or waterproof shoes
 
-## Warm weather 😎 
+# Warm weather 😎 
 
 Heading to the beach or out for long summer hikes? You'll probably want
 
@@ -50,7 +50,7 @@ Heading to the beach or out for long summer hikes? You'll probably want
 * Shorts
 
  
-## Cold weather ❄️
+# Cold weather ❄️
 
 If instead you're heading for some winter adventures you may want
 
@@ -60,12 +60,12 @@ If instead you're heading for some winter adventures you may want
   * Wool socks
   * Underlayers
 
-## Out of the country
+# Out of the country
 
 * Passport
 * Physical itinerary (It's great we have devices, but batteries die and screens crack. Better safe than sorry!)
 
-## Nice-to-haves
+# Nice-to-haves
 
 * Entertainment (a book or a magazine?)
 * Power bank for on-the-go charging
