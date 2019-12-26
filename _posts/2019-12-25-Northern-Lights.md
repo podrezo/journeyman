@@ -17,11 +17,11 @@ The northern lights are called thusly because they occur in the northern reaches
 
 There are a few things worth nothing from this explanation. Firstly, auroras have more to do with the sun's occasional increased solar activity than anything to do with the Earth. Secondly, the "Earth" part of this equation has to do only with the ever-present magnetic field, which does not change its activity due to seasons or factors you'd be able to see on a human scale. Finally, since the ionized particles flow along the lines of the magnetic field, it makes sense that they'd be visible around where that magnetic field intersects the atmosphere rather than where that magnetic field is in the vacuum of space. Take a look at this diagram from [Service Aurora](http://www.aurora-service.eu/aurora-school/aurora-borealis/):
 
-![Aurora diagram]({{ site.baseurl }}/images/posts/solar_wind.png){: .img-fluid}
+![Aurora diagram]({{ site.baseurl }}/images/posts/solar_wind.png){: .img-fluid .rounded}
 
 So the closer you go towards the north or south poles, the better your vantage point *if* the solar activity strikes Earth. How far is north "enough"? Well, apparently it is not uncommon to see the aurora [as far south as Manitoulin Island in Ontario](https://www.gordonspark.com/auroraborealisweekends/) which is only about a six hour drive from Toronto - easily doable for a weekend road-trip getaway. Here's a map that shows the "KP" levels (which are a measure of magnetic activity) for various latitudes. The lower the KP number, the more your odds of seeing the aurora.
 
-![Aurora diagram]({{ site.baseurl }}/images/posts/aurora-kp-map.png){: .img-fluid}
+![Aurora diagram]({{ site.baseurl }}/images/posts/aurora-kp-map.png){: .img-fluid .rounded}
 
 ## Winter is coming
 
@@ -48,6 +48,6 @@ Another factor that affects if you can see the auroras are clouds - since they g
 
 Well, when we went we were lucky enough to have a clear night with a little bit of a light show.
 
-![Jen in Iceland, dancing in front of an aurora]({{ site.baseurl }}/images/posts/iceland_aurora.jpg){: .img-fluid}
+![Jen in Iceland, dancing in front of an aurora]({{ site.baseurl }}/images/posts/iceland_aurora.jpg){: .img-fluid .rounded}
 
 Admittedly, in person it looked more like a white cloud and was more faint. Happy hunting!
