@@ -18,14 +18,6 @@ blockquote {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  @media (min-width: 768px) {
-    /* Target devices wider than 768px. */
-    background-position: 0 -25em;
-  }
-  @media (max-width: 767px) {
-    /* Target devices narrower than 768px. */
-    background-position: -40em -5em;
-  }
   color: white;
 }
 
