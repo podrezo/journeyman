@@ -54,6 +54,10 @@ article.post {
   }
 }
 
+.title {
+  text-decoration: none;
+}
+
 #main {
   /* small pages, vertically, may result in the footer floating around */
   min-height: 500px;
