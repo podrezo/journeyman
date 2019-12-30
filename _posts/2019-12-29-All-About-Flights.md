@@ -5,9 +5,15 @@ excerpt: "For many, flying is just a matter of \"I'm going to XYZ so I'll buy th
 cover: "airport.jpg"
 ---
 
-# Decide what your travel goals are
+There's many factors that contribute to the price of a flight, among these many are ones that you can't control (such as the price of fuel) but there are also many you can. So without further ado, let's talk about how to score the cheapest possible tickets without any voodoo.
 
-Before you book your flight, have a clear idea of what the "must see"s of your trip are going to be. Have a clear picture of which checkmarks you need for your vacation because your timing and location are going to be critical for that. For example, if you want to visit Oktoberfest in Munich you should know the exact dates when the festival happens and the fact that you have to be in Munich for it is going to be set in stone. However, if your goal is to enjoy the rural countryside of Sicily you may have a lot more freedom in what time of year to go and can save money by not going during peak season; moreover your choice of airport can vary and improve the price for you as well.
+# When is the best time of year to go?
+
+Unsurprsingly, peak seasons tend to be more expensive than off seasons. If you want to see the cherry blossoms in Japan, or drink a few [maßkrug](https://en.wikipedia.org/wiki/Ma%C3%9F) of beer at Munich's Oktoberfest, you're going to find yourself paying more than you would if you had gone at a different time. If the factor driving up the price is something you're not that interested in or can do without, consider changing the time of year you're going on your trip. Yes, Italy is probably more enjoyable outdoors in the spring but if you mainly just want to eat pizza, drink wine, and visit museums then you can just as easily do that in the fall at a fraction of the price. My favorite tool to scope when the cheap flights are to a certain destination is [Google Flights](https://flights.google.com). When you go there, select your starting and ending point and then open the date picker - it will overlay prices for the dates to reflect the cheapest tickets that are on that date. You can also use the price graph or date grid if you prefer that.
+
+![Flight calendar prices]({{ site.baseurl }}/images/posts/flights-rome-price-graph.png){: .img-fluid .rounded}
+
+Important, and *maybe* not so obvious tip: Winter and summer are swapped in the southern hemisphere. If you're going somewhere like New Zealand in August expecting sunshine and warm weather you're going to be in for a lot of disappointment.
 
 # Day of the week, time of day
 
@@ -15,7 +21,7 @@ The day of the week makes a gigantic difference in price for flights. Almost eve
 
 ![Flight calendar prices]({{ site.baseurl }}/images/posts/flight-calendar-prices.png){: .img-fluid .rounded}
 
-By choosing to leave on Wednesday and come back on a Monday you're paying $883 versus say leaving on Sunday the 7th and coming back on Sunday the 21st which costs $994 which is a whole $111 of difference. If you're going with your partner, that's over two hundred dollars saved on just flights alone for what is at worst a minor inconvenience.
+By choosing to leave on Wednesday and come back on a Monday you're paying $883 versus say leaving on Sunday the 7th and coming back on Sunday the 21st which costs $994 which is a whole $111 of difference. If you're going with your partner, that's over two hundred dollars saved on just flights alone for what is at worst a minor inconvenience. Again, Google Flights is your best friend here for locking down the cheapest days and times.
 
 Regarding time of day, we run into a similar problem - people generally want to fly out at convenient times. Particularly in the evening, after work or late morning so they have enough time to get breakfast and pack bags. Few people want to get up at three in the morning when it is unclear if public transit is even running and make their groggy way down to the airport. However, despite that inconvenience you have a lot to gain by leaving at night:
 
@@ -23,16 +29,6 @@ Regarding time of day, we run into a similar problem - people generally want to 
 * You avoid traffic on the way to the airport which can greatly derail your plans and cause a lot of headache from missed flights and the like
 * Prices for car share apps like Uber/Lyft will probably be lower due to reduced demand
 * If you're able, you can sleep on the plane and save paying a night for a hotel
-
-# When is the best time of year to go?
-
-There are many, many season-dependent adventures out there. Make sure that you're choosing times based on your travel goals you set earlier - if you want to see the cherry blossoms in Japan you're definitely not going to be the only one and correspondingly the prices for flights are going to be much higher than if you just wanted to visit Japan in general and didn't care so much about what time of year (or the cherry blossoms). Picking times to visit that are not during peak seasons will save you money (which will vary depending on the place, but in general it tends to be late spring and through the summer).
-
-Important, and *maybe* not so obvious tip: Winter and summer are swapped in the southern hemisphere. If you're going somewhere like New Zealand in August expecting sunshine and warm weather you're going to be in for a lot of disappointment.
-
-That being said, if you're set on a specific time and it happens to be during peak season then you're out of luck - peak season is always going to be expensive. However, if you're flexible in your timing in terms of time of year, look for the off-season tickets. This will also save you money on accomodations as it works the same way for that.
-
-How can you tell what's peak season and what's not? My favorite tool to solve this problem is [Google Flights](https://flights.google.com). When you go there, select your starting and ending point and then open the date picker - it will overlay prices for the dates to reflect the cheapest tickets that are on that date. As you go through the calendar months, you'll notice a general fluctuation in the prices. For example, flights to Cuba from Toronto get really expensive around February when everyone has had enough of the Toronto cold and wants to escape it, but they get really cheap around August when people in Toronto are being faced with heat waves.
 
 # Play around with where you're flying from and to
 
@@ -44,7 +40,7 @@ Looking at Google Flights, you can quickly pick up where some of the cheapest de
 
 ![Flight calendar prices]({{ site.baseurl }}/images/posts/flight-price-map.png){: .img-fluid .rounded}
 
-# How far ahead to book?
+# How far ahead should I book?
 
 Unless you get extremely lucky with a standby flight (i.e. where there's extra seats on a plane that the airline is going to sell off for a fraction of their value) or a very unlikely last minute deal, the best time to book a flight is [roughly three weeks to four months ahead of time](https://www.mentalfloss.com/article/538764/how-far-advance-should-you-book-flight-best-price-answer-might-surprise-you). I'd argue that the exact time in-between doesn't really matter; while prices do fluctuate it's generally not enough of a difference that it matters. That being said, what I'd definitely recommend against is buying tickets last minute - firstly, the prices do tend to jump up dramatically a few days before the flight date and secondly last minute flight bookings are a huge red flag when it comes to crossing the border. The only time I've had my luggage thouroughly searched was when I booked a last minute flight for work - the border agent that was rifling through my bags told me as much. Moreover, if you, like me like to have your ducks in a row before you set out on your trip then you'd probably want to book your hotels, tours and the like ahead of time and knowing when exactly you're flying in and when you're leaving will help you narrow down the timing for when you need to book those things. I like to book my flights first, then hotels, then tours, in that order.
 
