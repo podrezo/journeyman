@@ -2,7 +2,7 @@
 layout: post
 title: "All About Flights"
 excerpt: "For many, flying is just a matter of \"I'm going to XYZ so I'll buy the ticket to XYZ\" but there's a lot of interesting subtleties that can save you a lot of money."
-cover: "suitcases.jpg"
+cover: "airport.jpg"
 ---
 
 # Decide what your travel goals are
@@ -74,5 +74,6 @@ Consequently, sometimes it is "cheaper" to take the more expensive flight on the
 
 While low-cost, budget airlines can reduce ticket prices a lot by doing away with included checked bags, flying out of smaller airports, and not offering included food, they can also be a nightmare of frustrations. One of the cheapest ways to get to Europe from Toronto is to fly Jet Airway's route to Brussels but after having done it twice I really would not recommend the experience and have since opted instead to pay about a hundred dollars more per round trip for tickets on Air Canada or some other airline. The lower price does manifest itself in overcrowded flights with poor quality food and worse service. If you're a student and really tight on cash, it may be worth to forgo some of those comforts but if you're able to afford it I'd really recommend to not cheap out all the way. Spending upwards of eight hours sitting on a cheap flight and undergoing unnecessary layovers can really put a damper on your holidays that can make the rest of your trip much less enjoyable.
 
-- memmingen
-  - link to video about budget airlines
+When I wanted to fly from Munich to Kyiv I opted to use a budget airline (Wizz Air) since the price was a lot cheaper than trying to fly on Lufthansa, but the "Munich" airport of Wizz Air was in Memmingerberg which is about an hour and a half drive west of Munich with no train service there. Since my flight was in the morning and I didn't want to rent a car and have to deal with the long drive and returning it, I ended up getting a drive from a friend the night before and staying the night in a cheap hotel in Memmingerberg only to leave the next morning. This was a calculated move, and I still think it was the best option for me at the time, but it may not be the best option for you. Just something to consider.
+
+I also want to use this opportunity to link out to a [fantastic YouTube video by Wendover Productions](https://youtu.be/069y1MpOkQY) that goes in-depth on explaining how budget airlines work and why they're cheap.
