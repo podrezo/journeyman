@@ -5,9 +5,9 @@ excerpt: "For many, flying is just a matter of \"I'm going to XYZ so I'll buy th
 cover: "airport.jpg"
 ---
 
-There's many factors that contribute to the price of a flight, among these many are ones that you can't control (such as the price of fuel) but there are also many you can. So without further ado, let's talk about how to score the cheapest possible tickets without any voodoo.
+There are many factors that contribute to the price of a flight, among these many are ones that you can't control (such as the price of fuel) but there are also many you can. So without further ado, let's talk about how to score the cheapest possible tickets without any voodoo.
 
-# When is the best time of year to go?
+# Avoid peak seasons
 
 Unsurprsingly, peak seasons tend to be more expensive than off seasons. If you want to see the cherry blossoms in Japan, or drink a few [maßkrug](https://en.wikipedia.org/wiki/Ma%C3%9F) of beer at Munich's Oktoberfest, you're going to find yourself paying more than you would if you had gone at a different time. If the factor driving up the price is something you're not that interested in or can do without, consider changing the time of year you're going on your trip. Yes, Italy is probably more enjoyable outdoors in the spring but if you mainly just want to eat pizza, drink wine, and visit museums then you can just as easily do that in the fall at a fraction of the price. My favorite tool to scope when the cheap flights are to a certain destination is [Google Flights](https://flights.google.com). When you go there, select your starting and ending point and then open the date picker - it will overlay prices for the dates to reflect the cheapest tickets that are on that date. You can also use the price graph or date grid if you prefer that.
 
@@ -15,7 +15,7 @@ Unsurprsingly, peak seasons tend to be more expensive than off seasons. If you w
 
 Important, and *maybe* not so obvious tip: Winter and summer are swapped in the southern hemisphere. If you're going somewhere like New Zealand in August expecting sunshine and warm weather you're going to be in for a lot of disappointment.
 
-# Day of the week, time of day
+# Fly in the middle of the week, during odd times
 
 The day of the week makes a gigantic difference in price for flights. Almost everyone prefers to travel on weekends or at the beginning/end of the week. Since many people want to and tend to book their vacations for entire work weeks at a time (i.e. work until Friday, off starting Monday) this means that logically I'd probably want to make use of my vacation time and start my trip as soon as possible like on Friday night or on Saturday. That being said, this demand drives up the price of flights on those days. Take a look at this set of prices to go from Toronto to Munich (screenshot taken on Dec 29, 2019 for prices in June 2020)
 
@@ -40,7 +40,7 @@ Looking at Google Flights, you can quickly pick up where some of the cheapest de
 
 ![Flight calendar prices]({{ site.baseurl }}/images/posts/flight-price-map.png){: .img-fluid .rounded}
 
-# How far ahead should I book?
+# Book early, but not too early
 
 Unless you get extremely lucky with a standby flight (i.e. where there's extra seats on a plane that the airline is going to sell off for a fraction of their value) or a very unlikely last minute deal, the best time to book a flight is [roughly three weeks to four months ahead of time](https://www.mentalfloss.com/article/538764/how-far-advance-should-you-book-flight-best-price-answer-might-surprise-you). I'd argue that the exact time in-between doesn't really matter; while prices do fluctuate it's generally not enough of a difference that it matters. That being said, what I'd definitely recommend against is buying tickets last minute - firstly, the prices do tend to jump up dramatically a few days before the flight date and secondly last minute flight bookings are a huge red flag when it comes to crossing the border. The only time I've had my luggage thouroughly searched was when I booked a last minute flight for work - the border agent that was rifling through my bags told me as much. Moreover, if you, like me like to have your ducks in a row before you set out on your trip then you'd probably want to book your hotels, tours and the like ahead of time and knowing when exactly you're flying in and when you're leaving will help you narrow down the timing for when you need to book those things. I like to book my flights first, then hotels, then tours, in that order.
 
