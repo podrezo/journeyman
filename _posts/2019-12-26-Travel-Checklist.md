@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "What to pack: A travel checklist"
-excerpt: "Every time I leave for a trip, I find myself running in cirlces wondering what I forgot. To this end, I've been maintaing a travel checklist of items that are musts and figured I'd share what's in my suitcase when I travel."
+excerpt: "Every time I leave for a trip, I find myself running in circles wondering what I forgot. To this end, I've been maintaining a travel checklist of items that are musts and figured I'd share what's in my suitcase when I travel."
 cover: "suitcases.jpg"
 ---
 
-Every time I leave for a trip, I find myself running in cirlces wondering what I forgot. To this end, I've been maintaing a travel checklist of items that are musts and figured I'd share what's in my suitcase when I travel. Let's get started!
+Every time I leave for a trip, I find myself running in circles wondering what I forgot. To this end, I've been maintaining a travel checklist of items that are musts and figured I'd share what's in my suitcase when I travel. Let's get started!
 
 # General
 
@@ -17,7 +17,7 @@ These are items that you're probably going to want to bring on every trip, regar
 * Sleeping undershirts
 * Hat
 * Meds
-  * Any perscription meds you're taking
+  * Any prescription meds you're taking
   * Medicine for upset stomachs, headaches, allergies
 * Towel ("Don't forget to bring a towel!" &ndash; Towelie)
 * Toiletries
